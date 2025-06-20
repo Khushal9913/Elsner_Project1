@@ -1,6 +1,6 @@
 # ⚛️ Elsner_Project1
 
-**Elsner_Project1** is a front-end React project initialized using **Create React App**. It provides a scalable structure and a modern development workflow for building dynamic single-page applications (SPAs) with React.
+**Elsner_Project1** is a front-end React project initialized using **Create React App**. It provides a scalable structure and a modern development workflow for building dynamic single-page applications with React.
 
 ---
 
