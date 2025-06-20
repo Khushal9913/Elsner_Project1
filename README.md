@@ -72,8 +72,6 @@ http://localhost:3000
 
 💻 Developed by Khushal9913
 
-🧑‍💻 Init by: ronak-gondaliya-007
-
 ---
 
 🌟 Star this repo if you found it useful!
